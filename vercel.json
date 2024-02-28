@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://ncm-api.tokaiteio.run/:match*"
+    }
+  ]
+}
